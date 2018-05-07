@@ -1,0 +1,47 @@
+.email_template {
+  width: 100vw;
+  height: 100vh;
+  text-align: center; 
+}
+
+.template_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.email_fields {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.template_buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.output_email {
+  width: 40%;
+  height: 100%;
+  margin-left: 1%;
+}
+
+.input_variables {
+  border: 1px solid black;
+  margin-right: 20px;
+}
+
+.template_form {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.output_text {
+  height: 400px;
+  border: 1px solid black;
+}
